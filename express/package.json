@@ -1,0 +1,23 @@
+{
+    "name": "rxjs",
+    "version": "1.0.0",
+    "description": "\"rxjs example\"",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/praveen-rangasubhe/RxJS.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/praveen-rangasubhe/RxJS/issues"
+    },
+    "homepage": "https://github.com/praveen-rangasubhe/RxJS#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "rxjs": "^7.5.6"
+    }
+}
